@@ -1,7 +1,9 @@
 fpm cookery recipe with for packaging Ark mods for install on an ubuntu server
 
 Requirement:
-This has only been tested on windows 10 using the Ubuntu subsystem
+This has only been tested on windows 10 using the Ubuntu subsystem and requires the mods be installed via the game client.  
+
+Uses fpm-cookery to create a package from the mod installed on the Windows box
 
 Requires ruby
 
