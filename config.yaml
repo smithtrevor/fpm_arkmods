@@ -1,0 +1,12 @@
+---
+source_dir: '/mnt/c/Program Files (x86)/Steam/steamapps/common/ARK/ShooterGame/Content/Mods'
+target_dir: 'opt/steam/ShooterGame/Content/Mods'
+mods:
+  structures_plus:
+    id: 731604991
+  pillars_plus:
+    id: 708807240
+  platforms_plus:
+    id: 719928795
+  acm:
+    id: 558079412
